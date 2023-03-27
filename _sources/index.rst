@@ -29,7 +29,7 @@ If you have questions about this assignment please email Dr. Susan Rodger at rod
 The four parts are:
 
 - Pre Survey - Questions about your experience and confidence in computing
-- Introduction - Materials to get you familiar with the types of problems in this study
+- Introduction - Materials to get you familiar with the types of problems in this assignment
 - Practice - Practice problems
 - Post Test - Post test problems
 
